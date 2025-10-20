@@ -1,12 +1,12 @@
-h1{
+.h1{
     text-align: center;
     color: white;
     text-size-adjust: bold;
 }
-body{
+.body{
     background-color: darkslateblue;
 }
-p{
+.p{
     font-family: 'Gill Sans' ,sans-serif;
     color: greenyellow;
     text-align: center;
